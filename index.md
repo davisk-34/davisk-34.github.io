@@ -16,10 +16,9 @@
 - Experienced in writing software for Windows and Android platforms
 
 ### Work Experience
-
-| **Assistant Manager/Software Developer**  | (2016 - Present) |
-|:------------------------------------------|-----------------:|
- Timothy's Country Butcher Shop, Dugald, MB       
+| Assistant Manager/Software Developer | Timothy's Country Butcher Shop | (2016 - Present) |
+|--------------------------------------|--------------------------------|-----------------:|
+     
 - Manage employees and distribute tasks
 - Identify areas of waste and redundancy
 - Process cattle and wild game
