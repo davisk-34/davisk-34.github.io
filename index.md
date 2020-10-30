@@ -19,13 +19,13 @@
 
 | **Assistant Manager/Software Developer**  | (2016 - Present) |
 |:------------------------------------------|-----------------:|
-| Timothy's Country Butcher Shop                             |
+| Timothy's Country Butcher Shop            | Dugald, MB       |
 |<ul><li>Manage employees and distribute tasks</li><li>Identify areas of waste and redundancy</li><li>Process cattle and wild game</li><li>Create computer software to increase organization and efficiency</li></ul>|                  |
 
 | **Network Technician**  | (2014 - 2015) |
 |:------------------------------------------|-----------------:|
-| Timothy's Country Butcher Shop                             |
-|<ul><li>Manage employees and distribute tasks</li><li>Identify areas of waste and redundancy</li><li>Process cattle and wild game</li><li>Create computer software to increase organization and efficiency</li></ul>|                  |
+| Dolman and Associates                     | Winnipeg, MB     |
+|<ul><li>Troubleshoot network issues</li><li>Run network cable through walls and ceilings</li><li>Reimaged computers</li></ul>|                  |
 
 **Network Technician** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (2014 – 2015) <br />
 Dolman and Associates, Winnipeg, MB <br />
