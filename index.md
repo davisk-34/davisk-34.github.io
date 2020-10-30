@@ -27,13 +27,6 @@
 | Dolman and Associates                     | Winnipeg, MB     |
 |<ul><li>Troubleshoot network issues</li><li>Run network cable through walls and ceilings</li><li>Reimaged computers</li></ul>|                  |
 
-
-**Network Technician** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (2014 – 2015) <br />
-Dolman and Associates, Winnipeg, MB <br />
-- Troubleshoot network issues 
-- Run network cable through walls and ceilings 
-- Reimaged computers
-
 ### Education
 
 **University of Manitoba**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2017 - Present) <br />
