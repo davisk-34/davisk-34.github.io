@@ -17,11 +17,10 @@
 
 ### Work Experience
 
-
 | **Assistant Manager/Software Developer**  | (2016 - Present) |
 |:------------------------------------------|-----------------:|
 | Timothy's Country Butcher Shop                             |
-|- Manage employees and distribute tasks <br/>- Identify areas of waste and redundancy <br/> - Process cattle and wild game <br/> - Create computer software to increase organization and efficiency  |                  |
+|<ul><li>Manage employees and distribute tasks</li><li>Identify areas of waste and redundancy</li><li>Process cattle and wild game</li><li>Create computer software to increase organization and efficiency</li></ul>|                  |
 
 **Assistant Manager/Software Developer** &emsp;&emsp;&emsp;&emsp;&emsp; (2016 – Present) <br />
 Timothy’s Country Butcher Shop, Dugald, MB <br />
