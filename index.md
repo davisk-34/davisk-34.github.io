@@ -22,12 +22,10 @@
 | Timothy's Country Butcher Shop                             |
 |<ul><li>Manage employees and distribute tasks</li><li>Identify areas of waste and redundancy</li><li>Process cattle and wild game</li><li>Create computer software to increase organization and efficiency</li></ul>|                  |
 
-**Assistant Manager/Software Developer** &emsp;&emsp;&emsp;&emsp;&emsp; (2016 – Present) <br />
-Timothy’s Country Butcher Shop, Dugald, MB <br />
-- Manage employees and distribute tasks
-- Identify areas of waste and redundancy
-- Process cattle and wild game
-- Create computer software to increase organization and efficiency
+| **Network Technician**  | (2014 - 2015) |
+|:------------------------------------------|-----------------:|
+| Timothy's Country Butcher Shop                             |
+|<ul><li>Manage employees and distribute tasks</li><li>Identify areas of waste and redundancy</li><li>Process cattle and wild game</li><li>Create computer software to increase organization and efficiency</li></ul>|                  |
 
 **Network Technician** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (2014 – 2015) <br />
 Dolman and Associates, Winnipeg, MB <br />
