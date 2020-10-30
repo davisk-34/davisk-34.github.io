@@ -17,6 +17,11 @@
 
 ### Work Experience
 
+
+| **Assistant Manager/Software Developer**  | (2016 - Present) |
+|:------------------------------------------|-----------------:|
+| Timothy's Country Butcher Shop, Dugald MB |                  |
+
 **Assistant Manager/Software Developer** &emsp;&emsp;&emsp;&emsp;&emsp; (2016 – Present) <br />
 Timothy’s Country Butcher Shop, Dugald, MB <br />
 - Manage employees and distribute tasks
