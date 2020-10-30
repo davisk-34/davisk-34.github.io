@@ -25,7 +25,8 @@
 | **Network Technician**  | (2014 - 2015) |
 |:------------------------------------------|-----------------:|
 | Dolman and Associates                     | Winnipeg, MB     |
-|<ul><li>Troubleshoot network issues</li><li>Run network cable through walls and ceilings</li><li>Reimaged computers</li></ul>|                  |
+|<ul><li>Troubleshoot network issues</li><li>Run network cable through walls and ceilings</li><li>Create computer software to increase organization and efficiency</li><li>Reimaged computers</li></ul>|                  |
+
 
 **Network Technician** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (2014 – 2015) <br />
 Dolman and Associates, Winnipeg, MB <br />
