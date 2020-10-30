@@ -16,18 +16,21 @@
 - Experienced in writing software for Windows and Android platforms
 
 ### Work Experience
+
 | Assistant Manager/Software Developer | Timothy's Country Butcher Shop | (2016 - Present) |
-|--------------------------------------|--------------------------------|-----------------:|
+|:-------------------------------------|:------------------------------:|-----------------:|
      
 - Manage employees and distribute tasks
 - Identify areas of waste and redundancy
 - Process cattle and wild game
 - Create computer software to increase organization and efficiency
 
-| **Network Technician**  | (2014 - 2015) |
-|:------------------------------------------|-----------------:|
-| Dolman and Associates                     | Winnipeg, MB     |
-|<ul><li>Troubleshoot network issues</li><li>Run network cable through walls and ceilings</li><li>Reimaged computers</li></ul>|                  |
+| Network Technician                   | Dolman and Associates          | (2014 - 2015) |
+|:-------------------------------------|:------------------------------:|-----------------:|
+
+- Troubleshoot network issues
+- Run network cable through walls and ceilings
+- Reimaged computers
 
 ### Education
 
