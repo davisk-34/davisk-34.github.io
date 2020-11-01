@@ -5,7 +5,7 @@
 - Course Knowledge: C, Ruby, Java
 
 **Game Engines and Software:**
-- 6+ years experiences with Unity3D
+- 6+ years experiences with Unity
 - Slick2D (2D Java Game Libraries)
 - Unreal Engine
 
@@ -21,10 +21,8 @@ Timothy's Country Butcher Shop
 - Process cattle and wild game
 - Create computer software to increase organization and efficiency
 
-| Network Technician    | (2014 - 2015) |
-|:----------------------|--------------:|
-| Dolman and Associates |               |
-
+**Network Technician (2014 - 2015)**<br/>
+Dolman and Associates
 - Troubleshoot network issues
 - Run network cable through walls and ceilings
 - Reimaged computers
