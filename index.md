@@ -1,8 +1,5 @@
 ### Technical Qualifications / Skills
 
-**Specialization:**
-- Very proficiency at procedural workflows including Unity Shader Graph and DaVinci Resolve
-
 **Programming Languages:**
 - Practical Experience: .NET, C#, Java, JavaScript
 - Course Knowledge: C, Ruby, Java
@@ -17,16 +14,18 @@
 
 ### Work Experience
 
-| Assistant Manager/Software Developer | Timothy's Country Butcher Shop | (2016 - Present) |
-|:-------------------------------------|:------------------------------:|-----------------:|
+| Assistant Manager/Software Developer | (2016 - Present) |
+|:-------------------------------------|-----------------:|
+| Timothy's Country Butcher Shop       |                  |
      
 - Manage employees and distribute tasks
 - Identify areas of waste and redundancy
 - Process cattle and wild game
 - Create computer software to increase organization and efficiency
 
-| Network Technician                   | Dolman and Associates          | (2014 - 2015) |
-|:-------------------------------------|:------------------------------:|-----------------:|
+| Network Technician    | (2014 - 2015) |
+|-----------------------|--------------:|
+| Dolman and Associates |               |
 
 - Troubleshoot network issues
 - Run network cable through walls and ceilings
