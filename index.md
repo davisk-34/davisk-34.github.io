@@ -2,7 +2,7 @@
 
 **Programming Languages:**
 - Practical Experience: .NET, C#, Java, JavaScript
-- Course Knowledge: C, Ruby, Java
+- Course Knowledge: C, SQL, Java
 
 **Game Engines and Software:**
 - 6+ years experiences with Unity
