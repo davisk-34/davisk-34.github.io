@@ -13,6 +13,5 @@ This creates a special repo that contains a Github Page.<br/>
 Then, click "Create Repository" at the bottom of the page.
 
 ### Step 3: Create a new file called "index.md"
-Once the repo is made, you will be sent to a Quick Setup page.
-Click on !["Creating a new file"](images/creatingANewFile.png)
+Once the repo is made, you will be sent to a Quick Setup page. Click on !["Creating a new file"](images/creatingANewFile.png) and name the file "index.md". This is a markdown file that will be displayed when you visit [username].github.io from a web browser. It works exactly like an index.html, except is it a markdown file.
 
