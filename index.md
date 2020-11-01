@@ -29,15 +29,15 @@ Dolman and Associates
 
 ### Education
 
-**University of Manitoba**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(2017 - Present) <br />
+**University of Manitoba (2017 - Present)** <br/>
 - Computer Science, 3rd Year
 
-**Electric Network Technician, Red River College** &emsp;&emsp; (2010 – 2011) <br />
+**Electric Network Technician, Red River College (2010 – 2011)** <br/>
 - Designing and troubleshooting computer networks
 - Programming routers and switches
 - Soldering and cable-making
 
-**3D Training Institute**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (2009) <br />
+**3D Training Institute (2009)** <br/>
 - Trained in Maya
 - Modelling, Animation, Motion Graphic, Visual Effects
 
