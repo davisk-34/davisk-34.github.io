@@ -24,7 +24,7 @@
 - Create computer software to increase organization and efficiency
 
 | Network Technician    | (2014 - 2015) |
-|-----------------------|--------------:|
+|:----------------------|--------------:|
 | Dolman and Associates |               |
 
 - Troubleshoot network issues
