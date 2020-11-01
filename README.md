@@ -14,5 +14,5 @@ Then, click "Create Repository" at the bottom of the page.
 
 ### Step 3: Create a new file called "index.md"
 Once the repo is made, you will be sent to a Quick Setup page.
-Click on "Creating a new file"
+Click on !["Creating a new file"](images/creatingANewFile.png)
 
