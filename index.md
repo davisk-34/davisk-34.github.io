@@ -14,7 +14,8 @@
 
 ### Work Experience
 
-<div style="text-align: left"> Assistant Manager/Software Developer</div> <div style="text-align: right">(2016 - Present)</div>
+<div style="text-align: left"><b> Assistant Manager/Software Developer</b> </div> 
+<div style="text-align: right"><b>(2016 - Present)</b></div>
      
 - Manage employees and distribute tasks
 - Identify areas of waste and redundancy
