@@ -14,9 +14,8 @@
 
 ### Work Experience
 
-<div style="text-align: left"><b> Assistant Manager/Software Developer</b> </div> 
-<div style="text-align: right"><b>(2016 - Present)</b></div>
-     
+**Assistant Manager/Software Developer (2016 - Present)**<br/>
+Timothy's Country Butcher Shop
 - Manage employees and distribute tasks
 - Identify areas of waste and redundancy
 - Process cattle and wild game
