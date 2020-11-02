@@ -22,3 +22,7 @@ In the repo settings, there is a section called Github Pages that lets you confi
 
 ### Step 5: Start creating!
 Now you have a webpage that natively supports markdown! Githubs preview feature lets you switch back and form from code to preview, to see what your page looks like. It's important to note that any custom css will not be displayed in the preview window, so it is a good idea to have your new website open in a separate tab.
+
+<br/><br/>
+
+![](images/demo.gif)
