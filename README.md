@@ -18,3 +18,7 @@ Once the repo is made, you will be sent to a Quick Setup page. Click on !["Creat
 If you need a refresher on github flavored markdown, here is [a great resource](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Step 4: Pick a Jekyll theme
+In the repo settings, there is a section called Github Pages that lets you configure some aspects of you page. Most importantly, there is a "Change Theme" button that opens a new page of themes for you to browse and select from. Once you have picked a theme, return to the main page of your repo and click on "index.mb" to start creating your resume.
+
+### Step 5: Start creating!
+Now you have a webpage that natively supports markdown! Githubs preview feature lets you switch back and form from code to preview, to see what your page looks like. It's important to note that any custom css will not be displayed in the preview window, so it is a good idea to have your new website open in a separate tab.
