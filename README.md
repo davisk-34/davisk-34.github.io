@@ -15,3 +15,6 @@ Then, click "Create Repository" at the bottom of the page.
 ### Step 3: Create a new file called "index.md"
 Once the repo is made, you will be sent to a Quick Setup page. Click on !["Creating a new file"](images/creatingANewFile.png) and name the file "index.md". This is a markdown file that will be displayed when you visit [username].github.io from a web browser. It works exactly like an index.html, except is it a markdown file.
 
+If you need a refresher on github flavored markdown, here is [a great resource](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+### Step 4: Pick a Jekyll theme
