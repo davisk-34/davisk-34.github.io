@@ -51,8 +51,14 @@ Now you have a webpage that natively supports markdown! Githubs preview feature 
 <details>
   <summary>Tech Comm Note 5: Basic Function Document</summary>
   
- *The idea of a Basic Functional Document (BFD) is one that explains just enough to get the job done. A BFD will answer/demonstrate the following:*
+ *The idea of a Basic Functional Document (BFD) is one that explains just enough to get the job done. A BFD will answer the following questions:*
 
+- What is the product?
+- Why would anyone want it?
+- Does it have dependencies?
+- Where can I get it?
+- How do I install it?
+- How do I complete a simple task?
 </details>
 
 <br/>
