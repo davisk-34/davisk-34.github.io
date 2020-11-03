@@ -47,7 +47,7 @@ If you need a refresher on github flavored markdown, here is [a great resource](
 In the repo settings, there is a section called Github Pages that lets you configure some aspects of your page. Most importantly, there is a "Change Theme" button that opens a new page of themes for you to browse and select from. These are Jekyll themes. Jekyll is a web software that processes Markdown code and converts it to customizable HTML.  This is what allows our standard Markdown code to appear as an attractive website.  For more information on Jekyll check out [Barry Clark's blog](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Once you have picked a theme, return to the main page of your repo and click on "index.mb" to start creating your resume.
 
 ### Step 5: Start creating!
-Now you have a webpage that natively supports markdown! Github's preview feature lets you switch back and forth from code to preview, to see what your page looks like. It's important to note that any custom css will not be displayed in the preview window, so it is a good idea to have your new website open in a separate tab.
+Now you have a webpage that natively supports markdown! Github's preview feature lets you switch back and forth from code to preview, to see what your page looks like. It's important to note that any custom css will not be displayed in the preview window, so it is a good idea to have your new website open in a separate tab. You can see this in action in the image below.
 
 <details>
   <summary>Tech Comm Note 5: Basic Function Document</summary>
