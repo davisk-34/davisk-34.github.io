@@ -3,7 +3,7 @@
 Github Pages is a great way to host a resume or simple website. It's cost-free, ad-free, and very easy to use. In this readme I will explain the steps to hosting your resume with Github Pages. I will also explain a few principles of good technical communication.  These are the italicized sections. If you want to learn more about technical communication, I highly recommend Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 <details>
-  <summary>Benefits of a static webpage</summary>
+  <summary>Tech Comm Note 1: Benefits of a static webpage</summary>
   
 *Andrew Etter is a big advocate for storing technical documents (like resumes) on static websites. This allows the document to be easily updated and prevents readers from ever seeing an out-dated version of the document. For example, if you have a new job to add to your resume, just update the webpage. Every job you have applied to will automatically have access to you up-to-date resume.*
 </details>
@@ -12,7 +12,7 @@ Github Pages is a great way to host a resume or simple website. It's cost-free, 
 - Create Github account, if you don't have one already. It is a simple process, just like signing up for any other site.
 
 <details>
-  <summary>Consider your audience</summary>
+  <summary>Tech Comm Note 2: Consider your audience</summary>
   
  *As you think about the document you are about to write, consider the audience. This is the most important step, as it will define what you can assume the reader will already know. This is very relevent to a resume. If you are applying for a comp sci job, you can assume the hiring manager will know technical lingo, allowing you omit basic explanations and keep your resume concise.*
 </details>
@@ -23,6 +23,13 @@ The repository's name MUST be [username].github.io.
 This creates a special repo that contains a Github Page.<br/>
 !["New"](images/repoName.gif)<br/>
 Then, click "Create Repository" at the bottom of the page.
+
+<details>
+  <summary>Tech Comm Note 3: Be concise</summary>
+  
+ *Reading technical writing is a chore. And as such, people tend to skim the text, spending as little time with it as possible. For this reason, it is important to be clear, to-the-point and prevent including superfluous information. Use tables, headings and list to construct a easy to read document. If possible, your headings should give the reader all they need to know to continue on to the next step.*
+</details>
+
 
 ### Step 3: Create a new file called "index.md"
 Once the repo is made, you will be sent to a Quick Setup page. Click on !["Creating a new file"](images/creatingANewFile.png) and name the file "index.md". This is a markdown file that will be displayed when you visit [username].github.io from a web browser. It works exactly like an index.html, except is it a markdown file.
