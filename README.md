@@ -70,7 +70,7 @@ Now you have a webpage that natively supports markdown! Githubs preview feature 
 - *I updated my index file, but why isn't the change showing up on my website?*<br/>
 The time it takes for your webpage to reflect your changes can be as long as 10 minutes and as short as 10 seconds. Also, remember that you need to commit any changes to you file with the "Commit Changes" button at the bottom of the editing window.
 
-- *What other tasks can I use markdown for?*
+- *What other tasks can I use markdown for?*<br/>
 You can use markdown in blogs, emails and some group messaging applications like Discord. There are also services that will convert markdown to PDF, effectively allowing you to ship Markdown documentation with your software.
 
 Thanks to everyone who contributed to the Cayman theme.
