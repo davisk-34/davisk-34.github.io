@@ -27,7 +27,7 @@ Then, click "Create Repository" at the bottom of the page.
 <details>
   <summary>Tech Comm Note 3: Be concise</summary>
   
- *Reading technical writing is a chore. And as such, people tend to skim the text, spending as little time with it as possible. For this reason, it is important to be clear, to-the-point and prevent including superfluous information. Use tables, headings and list to construct a easy to read document. If possible, your headings should give the reader all they need to know to continue on to the next step.*
+ *Reading technical writing is a chore. And as such, people tend to skim the text, spending as little time with it as possible. For this reason, it is important to be clear, to-the-point and prevent including superfluous information. Use tables, headings, and list to construct an easy-to-read document. If possible, your headings should give the reader all they need to know to continue on to the next step.*
 </details>
 
 
