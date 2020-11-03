@@ -7,7 +7,11 @@ Github Pages is a great way to host a resume or simple website. It's cost-free, 
 ### Step 1: Create/Log-in to you Github account
 - Create Github account, if you don't have one already. It is a simple process, just like signing up for any other site.
 
-***Consider your audience:*** *As you think about the document you are about to write, consider the audience. This is the most important step, as it will define what you can assume the reader will already know. This is very relevent to a resume. If you are applying for a comp sci job, you can assume the hiring manager will know technical lingo, allowing you omit basic explanations and keep your resume concise.*
+<details>
+  <summary>Consider your audience</summary>
+  
+ *As you think about the document you are about to write, consider the audience. This is the most important step, as it will define what you can assume the reader will already know. This is very relevent to a resume. If you are applying for a comp sci job, you can assume the hiring manager will know technical lingo, allowing you omit basic explanations and keep your resume concise.*
+</details>
 
 ### Step 2: Create a new repository called [username].github.io
 - Click !["New"](images/new.png) to create a new repository.
