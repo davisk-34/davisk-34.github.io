@@ -1,6 +1,6 @@
 ## Hosting your resume on Github Pages <br/> and learn principles of good technical communication along the way
 
-Github Pages is a great way to host a resume or simple website. It's cost-free, ad-free, and very easy to use. In this readme I will explain the steps to hosting your resume with Github Pages. I will also explain a few principles of good technical communication.  These are the italicized sections. If you want to learn more about technical communication, I highly recommend Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+Github Pages is a great way to host a resume or simple website. It's cost-free, ad-free, and very easy to use. In this readme I will explain the steps to hosting your resume with Github Pages. I will also explain a few principles of good technical communication.  These principles are found in the collapsible sections for clarity. If you want to learn more about technical communication, I highly recommend Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 <details>
   <summary>Tech Comm Note 1: Benefits of a static webpage</summary>
