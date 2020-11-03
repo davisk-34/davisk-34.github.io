@@ -36,11 +36,24 @@ Once the repo is made, you will be sent to a Quick Setup page. Click on !["Creat
 
 If you need a refresher on github flavored markdown, here is [a great resource](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+<details>
+  <summary>Tech Comm Note 4: Don't write XML or HTML</summary>
+  
+ *Use a simple markup language like Markdown to expedite the creation process. These tools were specifically create to allow us to avoid writing native XML or HTML. They allow us to focus more of the content and less on the technical act of creating a webpage.*
+</details>
+
 ### Step 4: Pick a Jekyll theme
 In the repo settings, there is a section called Github Pages that lets you configure some aspects of your page. Most importantly, there is a "Change Theme" button that opens a new page of themes for you to browse and select from. These are Jekyll themes. Jekyll is a web software that processes Markdown code and converts it to customizable HTML.  This is what allows our standard Markdown code to appear as an attractive website.  For more information on Jekyll check out [Barry Clark's blog](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Once you have picked a theme, return to the main page of your repo and click on "index.mb" to start creating your resume.
 
 ### Step 5: Start creating!
 Now you have a webpage that natively supports markdown! Githubs preview feature lets you switch back and form from code to preview, to see what your page looks like. It's important to note that any custom css will not be displayed in the preview window, so it is a good idea to have your new website open in a separate tab.
+
+<details>
+  <summary>Tech Comm Note 5: Basic Function Document</summary>
+  
+ *The idea of a Basic Functional Document (BFD) is one that explains just enough to get the job done. A BFD will answer/demonstrate the following:*
+
+</details>
 
 <br/>
 
