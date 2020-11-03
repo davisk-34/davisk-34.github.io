@@ -19,7 +19,7 @@ Github Pages is a great way to host a resume or simple website. It's cost-free, 
 
 ### Step 2: Create a new repository called [username].github.io
 - Click !["New"](images/new.png) to create a new repository.
-The repository's name MUST be [username].github.io.
+The repository's name MUST be named [username].github.io.
 This creates a special repo that contains a Github Page.<br/>
 !["New"](images/repoName.gif)<br/>
 Then, click "Create Repository" at the bottom of the page.
