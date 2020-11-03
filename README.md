@@ -2,7 +2,11 @@
 
 Github Pages is a great way to host a resume or simple website. It's cost-free, ad-free, and very easy to use. In this readme I will explain the steps to hosting your resume with Github Pages. I will also explain a few principles of good technical communication.  These are the italicized sections. If you want to learn more about technical communication, I highly recommend Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
+<details>
+  <summary>Benefits of a static webpage</summary>
+  
 *Andrew Etter is a big advocate for storing technical documents (like resumes) on static websites. This allows the document to be easily updated and prevents readers from ever seeing an out-dated version of the document. For example, if you have a new job to add to your resume, just update the webpage. Every job you have applied to will automatically have access to you up-to-date resume.*
+</details>
 
 ### Step 1: Create/Log-in to you Github account
 - Create Github account, if you don't have one already. It is a simple process, just like signing up for any other site.
