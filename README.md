@@ -79,7 +79,7 @@ The time it takes for your webpage to reflect your changes can be as long as 10 
 - *What other tasks can I use markdown for?*<br/>
 You can use markdown in blogs, emails and some group messaging applications like Discord. There are also services that will convert markdown to PDF, effectively allowing you to ship Markdown documentation with your software.
 
-Proof readers: Aaron Salo, Kyle Lamoureux, Tianlei Wang, Sheikh Shafayet Hossain
+Proof readers: Aaron Salo, Kyle Lamoureux, Tianlei Wang, Sheikh Shafayet Hossain<br/>
 Theme: https://github.com/pages-themes/cayman
 ~
 
