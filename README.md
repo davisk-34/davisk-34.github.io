@@ -82,5 +82,4 @@ You can use markdown in blogs, emails and some group messaging applications like
 Author: Kevin Davis<br/>
 Proof readers: Aaron Salo, Kyle Lamoureux, Tianlei Wang, Sheikh Shafayet Hossain<br/>
 Theme: https://github.com/pages-themes/cayman
-~
 
