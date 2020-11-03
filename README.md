@@ -1,12 +1,16 @@
 ## Hosting your resume on Github Pages <br/> and learn principles of good technical communication along the way
 
-Github Pages is a great way to host a resume or simple website. It's cost-free, ad-free, and very easy to use. In this readme I will explain the steps to hosting your resume with Github Pages. I will also explain a few principles of good technical communication. If you want to learn more about technical communication, I highly recommend Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+Github Pages is a great way to host a resume or simple website. It's cost-free, ad-free, and very easy to use. In this readme I will explain the steps to hosting your resume with Github Pages. I will also explain a few principles of good technical communication.  These are the italicized sections. If you want to learn more about technical communication, I highly recommend Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+
+*Andrew Etter is a big advocate for storing technical documents (like resumes) on static websites. This allows the document to be easily updated and prevents readers from ever seeing an out-dated version of the document. For example, if you have a new job to add to your resume, just update the webpage. Every job you have applied to will automatically have access to you up-to-date resume.*
 
 ### Step 1: Create/Log-in to you Github account
-Create Github account, if you don't have one already. It is a simple process, just like signing up for any other site.
+- Create Github account, if you don't have one already. It is a simple process, just like signing up for any other site.
+
+***Consider your audience:*** *As you think about the document you are about to write, consider the audience. This is the most important step, as it will define what you can assume the reader will already know. This is very relevent to a resume. If you are applying for a comp sci job, you can assume the hiring manager will know technical lingo, allowing you omit basic explanations and keep your resume concise.*
 
 ### Step 2: Create a new repository called [username].github.io
-Click !["New"](images/new.png) to create a new repository.
+- Click !["New"](images/new.png) to create a new repository.
 The repository's name MUST be [username].github.io.
 This creates a special repo that contains a Github Page.<br/>
 !["New"](images/repoName.gif)<br/>
