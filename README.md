@@ -66,6 +66,11 @@ Now you have a webpage that natively supports markdown! Github's preview feature
 
 ![](images/demo.gif)
 
+### More Resources
+- [Markdown Tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Jekyll Info](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+- [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
 ### FAQs
 
 - *I updated my index file, but why isn't the change showing up on my website?*<br/>
@@ -74,4 +79,7 @@ The time it takes for your webpage to reflect your changes can be as long as 10 
 - *What other tasks can I use markdown for?*<br/>
 You can use markdown in blogs, emails and some group messaging applications like Discord. There are also services that will convert markdown to PDF, effectively allowing you to ship Markdown documentation with your software.
 
-Thanks to everyone who contributed to the Cayman theme.
+Proof readers: Aaron Salo, Kyle Lamoureux, Tianlei Wang, Sheikh Shafayet Hossain
+Theme: https://github.com/pages-themes/cayman
+~
+
