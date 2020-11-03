@@ -39,7 +39,7 @@ If you need a refresher on github flavored markdown, here is [a great resource](
 <details>
   <summary>Tech Comm Note 4: Don't write XML or HTML</summary>
   
- *Use a simple markup language like Markdown to expedite the creation process. These tools were specifically create to allow us to avoid writing native XML or HTML. They allow us to focus more of the content and less on the technical act of creating a webpage.*
+ *Use a simple markup language like Markdown to expedite the creation process. These tools were specifically create to allow us to avoid writing native XML or HTML. They allow us to focus more on the content and less on the technical act of creating a webpage.*
 </details>
 
 ### Step 4: Pick a Jekyll theme
