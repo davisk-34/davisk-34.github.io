@@ -1,3 +1,25 @@
+### Work Experience
+
+**Software Developer (2016 - Present)**<br/>
+Timothy's Country Butcher Shop
+- Developing software to increase organization and efficiency
+- Gathering and integrating feedback from users
+- Utilizing cloud storage to prevent data loss
+- Reduced human error and wasted time
+
+**Assistant Manager (2016 - Present)**<br/>
+Timothy's Country Butcher Shop
+- Manage employees and distribute tasks
+- Identify areas of waste and redundancy
+- Butcher cattle and wild game
+- Interacting with customers to schedule service time
+
+**Network Technician (2014 - 2015)**<br/>
+Dolman and Associates
+- Troubleshoot network issues
+- Run network cable through walls and ceilings
+- Reimaged computers
+
 ### Technical Qualifications / Skills
 
 **Programming Languages:**
@@ -11,21 +33,6 @@
 
 **Operating Systems:**
 - Experienced in writing software for Windows and Android platforms
-
-### Work Experience
-
-**Assistant Manager/Software Developer (2016 - Present)**<br/>
-Timothy's Country Butcher Shop
-- Manage employees and distribute tasks
-- Identify areas of waste and redundancy
-- Process cattle and wild game
-- Create computer software to increase organization and efficiency
-
-**Network Technician (2014 - 2015)**<br/>
-Dolman and Associates
-- Troubleshoot network issues
-- Run network cable through walls and ceilings
-- Reimaged computers
 
 ### Education
 
