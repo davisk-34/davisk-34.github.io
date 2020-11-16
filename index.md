@@ -22,14 +22,14 @@ Dolman and Associates
 
 ### Technical Qualifications / Skills
 
+**Unity**
+- 6+ years experience with unity developement
+- Made prototype games in nearly all genres
+- Proficient with procedural generation and shader graph
+
 **Programming Languages:**
 - Practical Experience: .NET, C#, Java, JavaScript
 - Course Knowledge: C, SQL, Java
-
-**Game Engines and Software:**
-- 6+ years experiences with Unity
-- Slick2D (2D Java Game Libraries)
-- Unreal Engine
 
 **Operating Systems:**
 - Experienced in writing software for Windows and Android platforms
@@ -47,4 +47,3 @@ Dolman and Associates
 **3D Training Institute (2009)** <br/>
 - Trained in Maya
 - Modelling, Animation, Motion Graphic, Visual Effects
-
