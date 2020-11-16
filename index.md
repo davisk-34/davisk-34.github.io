@@ -27,9 +27,10 @@ Dolman and Associates
 - Made prototype games in nearly all genres
 - Proficient with procedural generation and shader graph
 
-**Programming Languages:**
+**Programming Languages and APIs:**
 - Practical Experience: .NET, C#, Java, JavaScript
 - Course Knowledge: C, SQL, Java
+- Familiar with Google APIs including Drive, Calendar, Realtime Database
 
 **Operating Systems:**
 - Experienced in writing software for Windows and Android platforms
