@@ -26,9 +26,10 @@ Dolman and Associates
 - 6+ years experience with unity developement
 - Made prototype games in nearly all genres
 - Proficient with procedural generation and shader graph
+- Developed plugins to add development and add features
 
 **Programming Languages and APIs:**
-- Practical Experience: .NET, C#, Java, JavaScript
+- Practical Experience: .NET, C#, Java, JavaScript, Markdown
 - Course Knowledge: C, SQL, Java
 - Familiar with Google APIs including Drive, Calendar, Realtime Database
 
