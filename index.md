@@ -28,6 +28,7 @@ Dolman and Associates
 - Proficient with procedural generation and shader graph
 - Developed plugins to add development and add features
 <br/><br/><br/>
+
 **Programming Languages and APIs:**
 - Practical Experience: .NET, C#, Java, JavaScript, Markdown
 - Course Knowledge: C, SQL, Java
