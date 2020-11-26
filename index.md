@@ -1,3 +1,21 @@
+
+### Technical Qualifications / Skills
+
+**Unity**
+- 6+ years experience with unity developement
+- Made prototype games in nearly all genres
+- Proficient with procedural generation and shader graph
+- Developed plugins to aid development and add features
+- Published assets to the Unity Asset Store
+
+**Programming Languages and APIs:**
+- Practical Experience: .NET, C#, Java, JavaScript, Markdown
+- Course Knowledge: C, SQL, Java
+- Familiar with Google APIs including Drive, Calendar, Realtime Database
+
+**Operating Systems:**
+- Experienced in writing software for Windows and Android platforms
+
 ### Work Experience
 
 **Software Developer (2016 - Present)**<br/>
@@ -20,22 +38,6 @@ Dolman and Associates
 - Run network cable through walls and ceilings
 - Reimaged computers
 
-### Technical Qualifications / Skills
-
-**Unity**
-- 6+ years experience with unity developement
-- Made prototype games in nearly all genres
-- Proficient with procedural generation and shader graph
-- Developed plugins to add development and add features
-
-**Programming Languages and APIs:**
-- Practical Experience: .NET, C#, Java, JavaScript, Markdown
-- Course Knowledge: C, SQL, Java
-- Familiar with Google APIs including Drive, Calendar, Realtime Database
-
-**Operating Systems:**
-- Experienced in writing software for Windows and Android platforms
-
 ### Education
 
 **University of Manitoba (2017 - Present)** <br/>
@@ -49,3 +51,8 @@ Dolman and Associates
 **3D Training Institute (2009)** <br/>
 - Trained in Maya
 - Modelling, Animation, Motion Graphic, Visual Effects
+
+**Work Reference**
+Tim Dursken, current employer
+Cell: 204-803-9500
+Work: 204-853-7600
