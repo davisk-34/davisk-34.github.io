@@ -52,7 +52,7 @@ Dolman and Associates
 - Trained in Maya
 - Modelling, Animation, Motion Graphic, Visual Effects
 
-**Work Reference**
+**Work Reference** <br/>
 Tim Dursken, current employer
-Cell: 204-803-9500
-Work: 204-853-7600
+- Cell: 204-803-9500
+- Work: 204-853-7600
