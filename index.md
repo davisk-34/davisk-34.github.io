@@ -27,7 +27,6 @@ Dolman and Associates
 - Made prototype games in nearly all genres
 - Proficient with procedural generation and shader graph
 - Developed plugins to add development and add features
-<br/><br/><br/><br/>
 
 **Programming Languages and APIs:**
 - Practical Experience: .NET, C#, Java, JavaScript, Markdown
